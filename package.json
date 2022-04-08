@@ -21,6 +21,7 @@
     "next": "12.1.4",
     "react": "18.0.0",
     "react-dom": "18.0.0",
+    "surge": "^0.23.1",
     "web3modal": "^1.9.6"
   },
   "devDependencies": {
