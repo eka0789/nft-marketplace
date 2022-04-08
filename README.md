@@ -1,5 +1,7 @@
 # Metaverse NFT Marketplace built with Polygon, Solidity, IPFS, & Next.js
 
+![Screenshot from 2022-04-08 13-38-51](https://user-images.githubusercontent.com/67857639/162380857-8c7343be-ff54-4ad7-ad9c-b87886b00fe6.png)
+
 
 
 ### Running this project
